@@ -6,6 +6,7 @@
       "dataNascimento": "1985-04-22",
       "nome": "João Silva",
       "status": "ATIVO"
+      "tipoServico": "aposentadoria"
     },
     {
       "id": 2,
@@ -13,6 +14,15 @@
       "dataNascimento": "1990-11-10",
       "nome": "Maria Oliveira",
       "status": "INATIVO"
+      "tipoServico": "pensão por morte"
+    },
+    {
+      "id": 3,
+      "cpf": "19283746570",
+      "dataNascimento": "1972-10-31",
+      "nome": "Alexander M Barreto",
+      "status": "ATIVO"
+      "tipoServico": "auxílio-doença"
     }
   ]
 }
