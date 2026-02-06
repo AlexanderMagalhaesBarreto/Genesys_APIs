@@ -6,7 +6,6 @@
       "dataNascimento": "1985-04-22",
       "nome": "João Silva",
       "status": "ATIVO"
-      "tipoServico": "aposentadoria"
     },
     {
       "id": 2,
@@ -14,7 +13,6 @@
       "dataNascimento": "1990-11-10",
       "nome": "Maria Oliveira",
       "status": "INATIVO"
-      "tipoServico": "pensao por morte"
     }
   ]
 }
