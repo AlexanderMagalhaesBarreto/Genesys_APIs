@@ -14,7 +14,7 @@
       "dataNascimento": "1990-11-10",
       "nome": "Maria Oliveira",
       "status": "INATIVO"
-      "tipoServico": "pensão por morte"
+      "tipoServico": "pensao por morte"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "dataNascimento": "1972-10-31",
       "nome": "Alexander M Barreto",
       "status": "ATIVO"
-      "tipoServico": "auxílio-doença"
+      "tipoServico": "auxilio-doença"
     }
   ]
 }
